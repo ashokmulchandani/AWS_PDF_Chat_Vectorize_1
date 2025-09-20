@@ -10,9 +10,12 @@
 
 2. [HeroKuAccount](https://heroku.com)
 
-3. [VSCodeIDE] (https://code.visualstudio.com/)
+3. [VSCodeIDE](https://code.visualstudio.com/)
 
-4. [GitClI] (https://git-scm.com/book/en/v2)
+4. [GitClI](https://git-scm.com/book/en/v2)
+
+### create new virtual env
+python -m venv pdf-chat-env
 
 
 
