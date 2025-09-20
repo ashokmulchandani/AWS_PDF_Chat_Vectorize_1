@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pdf-chat-env/
 
 # Spyder project settings
 .spyderproject
